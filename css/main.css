@@ -1,12 +1,12 @@
-@import url(/css/main.css);
+@import url(./common.css);
 
-@import url(/css/header.css);
-@import url(/css/hero.css);
-@import url(/css/benefits.css);
-@import url(/css/ingredients.css);
-@import url(/css/made.css);
-@import url(/css/products.css);
-@import url(/css/bestsellers.css);
-@import url(/css/reviews.css);
+@import url(./header.css);
+@import url(./hero.css);
+@import url(./benefits.css);
+@import url(./ingredients.css);
+@import url(./made.css);
+@import url(./products.css);
+@import url(./bestsellers.css);
+@import url(./reviews.css);
 
-@import url(/css/footer.css);
+@import url(./footer.css);
