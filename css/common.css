@@ -1,3 +1,4 @@
+/* Global styles*/
 body{
     font-family: "Montserrat", sans-serif;
     font-size: 14px;
@@ -18,4 +19,74 @@ button{
 }
 address{
     font-style: normal;
+}
+/* Base styles*/
+.section {
+}
+.section-title {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 1.17;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+    text-align: center;
+}
+.accent{
+    color: #fd9222;
+}
+ .logo {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.11111;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+
+ }
+.logo-icon {
+
+}
+
+/* socials */
+.socials {
+}
+.socials-item {
+}
+.socials-link {
+}
+.socials-icon {
+}
+
+/* Button */
+.btn {
+    font-weight: 600;
+    background-color: transparent;
+    border: none;
+
+}
+.btn-filled {
+    color: #fff;
+    background: #fd9222;
+}
+.btn-filled:hover,
+.btn-filled:focus{
+    color: #fd9222;
+    background: rgba(253, 146, 34, 0.1)
+
+}
+.btn-outline {
+}
+.primary {
+    color: #fff;
+}
+.primary:hover,
+.primary:focus{
+    color: #fd9222;
+}
+.secondary {
+    color: #111;
+}
+.secondary:hover,
+.secondary:focus{
+    color: #fff;
+    background: #fd9222;
 }
