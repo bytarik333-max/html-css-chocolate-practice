@@ -5,6 +5,7 @@
 .products-list {
 }
 .products-item {
+    background-color: #fff;
 }
 .products-pic {
 }
@@ -16,6 +17,12 @@
     text-align: center;
 }
 .products-type {
+    font-size: 12px;
+    line-height: 1.17;
+    text-align: center;
+    color: rgba(17 ,17 ,17 ,0.7);
 }
 .products-price {
+    font-weight: 600;
+    background-color: #fafafa;
 }
